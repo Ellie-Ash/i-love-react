@@ -1,0 +1,56 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Kelly Kapoor"
+    },
+    {
+      "id": 3,
+      "name": "Michael Scott"
+    },
+    {
+      "id": 4,
+      "name": "Pam Beasly"
+    }
+  ],
+  "animals": [
+    {
+      "id": 2,
+      "name": "Sprinkles",
+      "breed": "Cat",
+      "employeeId": 4
+    },
+    {
+      "name": "Henrietta",
+      "breed": "Racoon",
+      "employeeId": 3,
+      "id": 3
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "name": "Nashville West",
+      "address": "457 Maple Blvd"
+    },
+    {
+      "id": 2,
+      "name": "Nashville East",
+      "address": "2335 Redwood Rd"
+    }
+  ],
+  "owners": [
+    {
+      "id": 1,
+      "name": "Angela Martin",
+      "number": "493-433-7446",
+      "animalId": 2
+    },
+    {
+      "id": 2,
+      "name": "Dwight Schrute",
+      "number": "731-464-7549",
+      "animalId": 3
+    }
+  ]
+}
