@@ -21,10 +21,16 @@
       "employeeId": 4
     },
     {
+      "id": 3,
       "name": "Henrietta",
-      "breed": "Racoon",
-      "employeeId": 3,
-      "id": 3
+      "breed": "Rat",
+      "employeeId": 3
+    },
+    {
+      "id": 4,
+      "name": "Haru",
+      "breed": "Dog",
+      "employeeId": null
     }
   ],
   "locations": [
@@ -32,11 +38,6 @@
       "id": 1,
       "name": "Nashville West",
       "address": "457 Maple Blvd"
-    },
-    {
-      "id": 2,
-      "name": "Nashville East",
-      "address": "2335 Redwood Rd"
     }
   ],
   "owners": [
@@ -50,7 +51,7 @@
       "id": 2,
       "name": "Dwight Schrute",
       "number": "731-464-7549",
-      "animalId": 3
+      "animalId": 4
     }
   ]
 }
